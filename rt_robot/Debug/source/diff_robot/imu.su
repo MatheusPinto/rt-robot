@@ -1,0 +1,9 @@
+imu.c:23:13:MpuTask	48	static
+imu.c:68:5:imu_Init	32	static
+imu.c:105:5:imu_GetRawGyro	40	static
+imu.c:149:5:imu_GetRawGyroNoOffset	40	static
+imu.c:193:5:imu_GetRawSamples	32	static
+imu.c:213:5:imu_GetGyro	32	static
+imu.c:230:6:imu_TaskCreate	24	static
+imu.c:242:5:imu_ReadRegister	24	static
+imu.c:279:5:imu_WriteRegister	24	static

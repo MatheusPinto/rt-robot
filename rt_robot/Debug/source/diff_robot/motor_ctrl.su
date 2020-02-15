@@ -1,0 +1,15 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+fsl_clock.h:614:20:CLOCK_SetTpmClock	16	static
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_tpm.h:579:20:TPM_StartTimer	24	static
+fsl_port.h:407:24:PORT_GetPinsInterruptFlags	16	static
+fsl_port.h:418:20:PORT_ClearPinsInterruptFlags	16	static
+motor_ctrl.c:67:6:PORTD_IRQHandler	16	static
+motor_ctrl.c:125:6:motor_Init	16	static
+motor_ctrl.c:159:6:motor_SetIncrementRightEncoder	16	static
+motor_ctrl.c:164:6:motor_SetIncrementLeftEncoder	16	static
+motor_ctrl.c:171:7:motor_GetMaxSpeed	8	static
+motor_ctrl.c:176:6:motor_CtrlTaskCreate	24	static
+motor_ctrl.c:185:6:motor_OdomTaskCreate	24	static
+motor_ctrl.c:195:13:MotorCtrlTask	64	static
+motor_ctrl.c:284:13:EncondersHandlerTask	56	static

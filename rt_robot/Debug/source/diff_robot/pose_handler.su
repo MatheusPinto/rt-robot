@@ -1,0 +1,3 @@
+pose_handler.c:22:13:PoseTask	64	static
+pose_handler.c:64:6:poseHand_Init	8	static
+pose_handler.c:69:6:poseHand_TaskCreate	24	static

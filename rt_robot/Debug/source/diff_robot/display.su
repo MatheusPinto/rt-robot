@@ -1,0 +1,3 @@
+display.c:24:13:DisplayTask	88	static
+display.c:61:6:display_TaskCreate	24	static
+display.c:72:6:display_Init	64	static

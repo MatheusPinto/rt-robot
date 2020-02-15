@@ -1,0 +1,4 @@
+emb_util.c:27:6:emb_ReverseStr	40	static
+emb_util.c:59:5:emb_itoa	40	static
+emb_util.c:102:6:emb_ftoa	48	static
+emb_util.c:149:9:emb_Map	24	static

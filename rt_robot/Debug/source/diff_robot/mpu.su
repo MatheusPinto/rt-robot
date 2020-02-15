@@ -1,0 +1,7 @@
+mpu.c:21:13:MpuTask	104	static
+mpu.c:86:5:mpu_Init	56	static
+mpu.c:132:5:mpu_GetRawGyro	40	static
+mpu.c:176:5:mpu_GetRawGyroNoOffset	40	static
+mpu.c:220:5:mpu_GetRawSamples	40	static
+mpu.c:269:5:mpu_GetGyro	32	static
+mpu.c:286:6:mpu_TaskCreate	24	static

@@ -1,0 +1,10 @@
+controller.c:40:20:GoForward	8	static
+controller.c:53:20:GoLowLeft	8	static
+controller.c:59:20:GoLeft	8	static
+controller.c:65:20:GoVeryLeft	8	static
+controller.c:71:20:GoLowRight	8	static
+controller.c:77:20:GoRight	8	static
+controller.c:83:20:GoVeryRight	8	static
+controller.c:89:13:RobotCtrlTask	24	static
+controller.c:145:6:robot_Init	8	static
+controller.c:151:6:robot_TaskCreate	24	static

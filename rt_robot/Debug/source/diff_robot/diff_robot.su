@@ -1,0 +1,15 @@
+fsl_gpio.h:215:24:GPIO_ReadPinInput	16	static
+diff_robot.c:54:6:robot_SetToGoForward	16	static
+diff_robot.c:72:6:robot_SetToGoBackward	16	static
+diff_robot.c:90:6:robot_SetToGoLowLeft	16	static
+diff_robot.c:109:6:robot_SetToGoLeft	16	static
+diff_robot.c:128:6:robot_SetToGoVeryLeft	16	static
+diff_robot.c:147:6:robot_SetToGoLowRight	16	static
+diff_robot.c:166:6:robot_SetToGoRight	16	static
+diff_robot.c:185:6:robot_SetToGoVeryRight	16	static
+diff_robot.c:203:6:robot_SetToStop	16	static
+diff_robot.c:221:13:RobotInitTask	16	static
+diff_robot.c:259:13:RobotCtrlTask	40	static
+diff_robot.c:333:6:robot_Init	8	static
+diff_robot.c:364:6:robot_InitTaskCreate	24	static
+diff_robot.c:384:6:robot_CrtlTaskCreate	24	static

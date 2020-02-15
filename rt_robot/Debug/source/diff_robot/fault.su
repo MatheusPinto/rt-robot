@@ -1,0 +1,7 @@
+fsl_gpio.h:197:20:GPIO_TogglePinsOutput	16	static
+fault.c:19:6:fault_Init	8	static
+fault.c:23:6:fault_Throw	8	static
+fault.c:41:6:fault_ThrowFromISR	8	static
+fault.c:53:6:fault_VerifyDeadline	24	static
+fault.c:62:6:fault_VerifyDeadlineFromISR	24	static
+fault.c:72:6:NMI_Handler	8	static
